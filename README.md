@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me :
-      ![image](https://user-images.githubusercontent.com/30291142/184011471-ae540b94-0a1b-4d87-ad58-680aefc72e4a.png)/bumble_jex
+      ![image](https://user-images.githubusercontent.com/30291142/184013002-54105103-2ce3-47a0-b9aa-86e5f20126ba.png)/bumble_jex
       
 
 <!---
