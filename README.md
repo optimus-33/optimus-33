@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @optimus-33
-- 👀 I’m a Fullstack Engineer and do full time Application Development in Python
+- 👀 I’m a Fullstack Engineer and a Python enthusiast
 - 🌱 I’m proficient in DSA
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me :
