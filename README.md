@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @optimus-33
-- 👀 I’m a Fullstack Engineer and a Python enthusiast
-- 🌱 I’m proficient in DSA
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me :
-      ![twitter (1)](https://user-images.githubusercontent.com/30291142/184013951-d10877a2-4b19-445b-bc66-433750c2a65c.png)/bumble_jex
-      
+# Hi, I'm Hrishikesh 👋
 
-<!---
-optimus-33/optimus-33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Engineer focused on **backend and AI infrastructure**. 5+ years building production systems in Python. Based in Mumbai, India.
+
+## What I work on
+
+- 🏗️ **LLM gateways:** designed and ran a production gateway on FastAPI, AKS and OpenTelemetry for enterprise-scale traffic
+- 📱 **Pupil:** an Android spend tracker (Kotlin, Jetpack Compose, Room, MVVM + Clean Architecture). Scan a UPI QR, log the amount and reason, and pay
+- 🤖 **Expense bot:** a Discord and Telegram bot that logs shared expenses and posts weekly per-person summaries
+
+## Agentic solutions
+
+- 🧭 Focused on the infrastructure agents run on: LLM gateways, request routing, and tracing and observability for agentic workloads
+- 🎓 Designing a personal study agent to support my MS coursework
+- 🔎 Regularly researching AI-powered products and agent tooling, and following how the space evolves
+
+## Tech
+
+Python · FastAPI · Kubernetes (AKS) · Azure · OpenTelemetry · Kotlin · Jetpack Compose · Room
+
+## Beyond code
+
+Pursuing an MS in Computer Science. Software developer, farmer, music lover 🌾🎵
+
+## Open source
+
+Open to collaborating on open source projects, especially Python backends and AI infrastructure.
+
+## Reach me
+
+[X / Twitter: @bumble_jex](https://x.com/bumble_jex)
